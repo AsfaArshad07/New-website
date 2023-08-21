@@ -15,7 +15,6 @@
 
 </head>
 
-<body>
     <header data-aos="fade-down">
         <div class="hero">
 
@@ -162,6 +161,4 @@
                   AOS.init();
                   </script>
 
-</body>
 
-</html>
